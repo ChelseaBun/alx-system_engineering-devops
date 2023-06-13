@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((2#BINARY**$LOVE)o)
+echo $((2#BINARY)0)
